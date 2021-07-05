@@ -1,0 +1,106 @@
+
+body{
+    margin: 0;
+   
+}
+
+.firstsection{
+    
+    background-image: url(banglas.jpg);
+   
+    
+    background-repeat: no-repeat;
+    background-size: 1800px 500px;
+    
+    height:300px;
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+    
+}
+.secondsection{
+   
+    
+    height:300px;
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+    
+}
+.button1
+{
+    margin-left: 45%;
+    margin-top: 3%;
+}
+.buttontype
+{
+    
+    align-self: center;
+    text-align: center;
+    color: white;
+text-decoration: none;
+padding:10px 40px;
+border-radius: 10px;
+font-weight: 700;
+background-image: linear-gradient(black,rgb(3, 48, 3));
+
+
+}
+
+
+.buttontype2
+{
+    
+    align-self: center;
+    text-align: center;
+    color: white;
+text-decoration: none;
+padding:10px 40px;
+border-radius: 10px;
+font-weight: 700;
+background-image: linear-gradient(black,rgb(3, 48, 3));
+opacity: .5;
+
+
+}
+.flexible
+{
+    display: flex;
+}
+.onethird
+{width: 33%;
+    padding-left:12%;
+
+}
+.imageclass
+{
+    width:300px;
+    height: 200px
+}
+.thirdonethird
+{width: 33%;
+    padding-left:12%;
+    border-right:10px solid black;
+    border-bottom:10px solid black;
+    height:180px;
+    
+
+}
+.fourthonethird
+{width: 33%;
+    padding-left:6%;
+    
+    
+
+}
+.half img{width:90%;
+    margin: 30px;
+    height: 400px;
+
+}
+.half{width:50%;}
+.fifthsection
+{
+    margin:30px;
+}
+.half p{padding:50px;}
